@@ -33,9 +33,9 @@ const Home: React.FC = () => {
       {/* Right side: Image */}
       <div className="w-1/2 flex justify-end">
         <img
-          src="public/assets/taro-egg-tart.jpg"
+          src="public/taro-egg-tart.jpg"
           alt="Taro Egg Tart"
-          className="w-720 h-600 object-cover rounded-xl shadow-lg"
+          className="w-[720px] h-[600px] object-cover rounded-xl shadow-lg"
         />
       </div>
     </div>
