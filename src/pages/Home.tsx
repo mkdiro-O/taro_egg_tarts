@@ -1,6 +1,5 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import taroEggTart from '/assets/taro-egg-tart.jpg';
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
@@ -34,7 +33,7 @@ const Home: React.FC = () => {
       {/* Right side: Image */}
       <div className="w-1/2 flex justify-end">
         <img
-          src={taroEggTart}
+          src="public/assets/taro-egg-tart.jpg"
           alt="Taro Egg Tart"
           className="w-720 h-600 object-cover rounded-xl shadow-lg"
         />
