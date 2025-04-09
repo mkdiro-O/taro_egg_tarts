@@ -11,7 +11,7 @@ const Contact: React.FC = () => {
       
       {/* Contact Info */}
       <p className="text-lg text-gray-600 mb-4">Email: hello@taroeggtarts.com</p>
-      <p className="text-lg text-gray-600 mb-8">WeChat: mei_haoyiTian</p>
+      <p className="text-lg text-gray-600 mb-8">WeChat: taroeggtarts</p>
 
       {/* Buttons */}
       <div className="flex space-x-4">
