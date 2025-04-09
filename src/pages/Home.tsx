@@ -33,7 +33,7 @@ const Home: React.FC = () => {
       {/* Right side: Image */}
       <div className="w-1/2 flex justify-end">
         <img
-          src="public/taro-egg-tart.jpg"
+          src="https://yunizaiyiqi.vercel.app/taro-egg-tart.jpg"
           alt="Taro Egg Tart"
           className="w-[720px] h-[600px] object-cover rounded-xl shadow-lg"
         />
