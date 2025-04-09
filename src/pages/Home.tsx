@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import taroEggTart from '/Users/bluesky/Desktop/taro_egg_tarts/src/assets/taro-egg-tart.jpg';
+import taroEggTart from '/Users/bluesky/Desktop/taro_egg_tarts/public/taro-egg-tart.jpg';
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
